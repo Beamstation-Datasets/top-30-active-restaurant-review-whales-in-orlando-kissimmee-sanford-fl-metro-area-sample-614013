@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Orlando-Kissimmee-Sanford, FL Metro Area, US",
+  "export_job_id": "30e92fd4-a19f-4fbe-a3bb-31d2f92927f3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 614013,
+  "location_name": "Orlando-Kissimmee-Sanford, FL",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-orlando-kissimmee-sanford-fl-metro-area-sample-614013",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/614013/beamstation_614013_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 315,
+  "sample_sha256": "ea4231484666dd5b8116d228049ee7aeeb63b9a84aac8faa1de1b0b5484b6777",
+  "sample_size_bytes": 1292159,
+  "total_records": 3159,
+  "updated_at": "2026-04-08T05:26:05.378056+00:00"
+}
