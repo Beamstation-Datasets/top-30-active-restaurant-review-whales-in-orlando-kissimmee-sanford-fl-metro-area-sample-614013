@@ -1,0 +1,12 @@
+{
+  "export_job_id": "30e92fd4-a19f-4fbe-a3bb-31d2f92927f3",
+  "id_short": 614013,
+  "published_at": "2026-04-14T19:05:30Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-orlando-kissimmee-sanford-fl-metro-area-sample-614013",
+  "sample_asset_name": "beamstation_614013_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/614013/beamstation_614013_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
+  "sample_records": 315,
+  "sample_sha256": "ea4231484666dd5b8116d228049ee7aeeb63b9a84aac8faa1de1b0b5484b6777",
+  "sample_size_bytes": 1292159,
+  "total_records": 3159
+}
