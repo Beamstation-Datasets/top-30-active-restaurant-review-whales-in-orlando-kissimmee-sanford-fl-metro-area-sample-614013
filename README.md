@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Orlando-Kissimmee-Sanford, FL Metro Area, US
 
-> Free BeamStation sample export with 315 rows and masked direct-contact fields.
+> Free BeamStation sample export with 309 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `614013` |
 | Location | Orlando-Kissimmee-Sanford, FL |
 | Category | Restaurants |
-| Full dataset size | 3,159 records |
-| Free sample size | 315 records (9.97%) |
-| Last export | 2026-04-08T05:26:05.378056+00:00 |
+| Full dataset size | 3,097 records |
+| Free sample size | 309 records (9.98%) |
+| Last export | 2026-04-15T09:34:21.025473+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-orlando-kissimmee-sanford-fl-metro-area-sample-614013/releases/download/sample-latest/beamstation_614013_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
